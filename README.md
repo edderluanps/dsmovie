@@ -4,7 +4,7 @@ Projeto criado na semana Spring-React
 # Tecnologias
 
 ## Back end
-* Java (SDK 17)
+* Java (JDK 17)
 * Spring Boot
 * JPA/Hibernate
 
