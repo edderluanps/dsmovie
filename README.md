@@ -34,4 +34,4 @@ Projeto criado na semana Spring-React
 
 2- Abra seu editor de código (VS Code/Sublime), procure a opção de selecionar uma pasta, selecione a pasta frontend e adicione ao seu editor.
 
-3- O front end projeto foi concluido com a versão 16.13.1 do Node.JS (node --version para verificar) e 7.20.3 do NPM (npm --v para verificar), certifique-se das versões antes de compilar (npm start).
+3- O front end projeto foi concluido com a versão 16.13.1 do Node.JS ('node --version' para verificar) e 7.20.3 do NPM ('npm --v para' verificar), certifique-se das versões antes de compilar (npm start).
