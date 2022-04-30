@@ -21,7 +21,7 @@ Projeto criado na semana Spring-React
 * Back end: Heroku
 * Front end web: Netlify
 
-## Instalação
+# Instalação
 ## Back end
 1- Baixe o ZIP do projeto
 
